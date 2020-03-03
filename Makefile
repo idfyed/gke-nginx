@@ -1,5 +1,5 @@
 NAME = idfyed/gke-nginx
-VERSION = 1.0.0-alpine
+VERSION = 1.0.1-alpine
 
 .PHONY: all build test tag_latest release ssh
 
